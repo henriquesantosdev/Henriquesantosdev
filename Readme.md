@@ -1,6 +1,6 @@
 <!--![Status](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
-## Olá! Eu sou o Henrique Santos 🖐️
+## Hello! I'm Henrique Santos 🖐️
 <a href = "mailto:contato.henriquesantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/henrique-santos-497b0026a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">    </a>
 <br/>
@@ -10,6 +10,7 @@
  | ----------- | ----------- |
 
 <div align="center" >
+  Mastered technologies
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,docker,figma,github,jest,linux,postman,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
   </a>
