@@ -10,7 +10,6 @@
  | ----------- | ----------- |
 
 <br/>
-<br/>
 
 ## 🛸 Mastered technologies
 <div align="center" >
