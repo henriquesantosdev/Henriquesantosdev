@@ -14,7 +14,7 @@
 ## 🛸 Mastered technologies
 <div align="center" >
   <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,docker,figma,github,jest,linux,postman,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,tailwind,sass,nodejs,nest,docker,github,linux,bootstrap,mongodb,postgres" />
   </a>
   <br />
 </div>
